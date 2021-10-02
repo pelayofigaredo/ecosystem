@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948c5a59ec353b14a878dd670ecc80de, type: 3}
+  m_Name: Munchi
+  m_EditorClassIdentifier: 
+  speciesName: Munchi
+  description: Omnivore, eats everything, slow metabolism
+  speciesPrefab: {fileID: 5641562925563484950, guid: bd1db76b8f5481549b16975ba2fcee3f,
+    type: 3}
+  speciesColor:
+    serializedVersion: 2
+    key0: {r: 0, g: 3.717647, b: 3.827451, a: 1}
+    key1: {r: 0.1882353, g: 0.03137255, b: 3.9686275, a: 1}
+    key2: {r: 3.9686275, g: 0, b: 2.2588236, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 32768
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
